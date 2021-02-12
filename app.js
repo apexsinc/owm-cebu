@@ -17,7 +17,7 @@ var app = {
      */
     Weather: function () {
 		this.default_unit = 'metric';
-		this.default_location = 'Vancouver,CA';
+		this.default_location = 'Lapu-Lapu,PH';
 		this.api_url = 'http://api.openweathermap.org/data/2.5/';
 		this.api_appid = '01db9c5d34d4ff213da8c6f69701fa8c';
 		
