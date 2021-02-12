@@ -20,7 +20,7 @@ A simple application that displays a 5 day weather forecast of any city in the W
 - Lobibox - for pop up alerts
 
 ### Demo
-- http://files.apexvalue.com/owm-cebu/
+- http://www.apexvalue.com/demo/weather-cebu-owm/
 
 ### Running the App
 1. Clone / Download the app
